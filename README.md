@@ -1,2 +1,2 @@
 # algorithm
-数据结构和算法Golang实现
+算法导论Golang实现
