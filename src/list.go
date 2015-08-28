@@ -12,7 +12,6 @@ type List struct {
 	Key  string
 }
 
-var Head string
 var Length int
 
 func main() {
